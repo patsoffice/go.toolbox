@@ -1,4 +1,4 @@
-module github.com/patsoffice/toolbox
+module github.com/patsoffice/go.toolbox
 
 go 1.14
 
